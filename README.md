@@ -1,5 +1,5 @@
 # DSO: Direct Sparse Odometry
-
+**生成僞Ground Truth
 For more information see
 [https://vision.in.tum.de/dso](https://vision.in.tum.de/dso)
 
